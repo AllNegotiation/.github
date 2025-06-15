@@ -7,7 +7,7 @@ Built to help users practice, improve, and automate negotiation through intellig
 
 ## 💡 About
 
-AllNegotiation is an early-stage AI product built to transform how people approach negotiation.
+AllNegotiation is an early-stage AI product built to transform how people approach negotiation.  
 It’s designed to support users with:
 
 - Practicing negotiation techniques
@@ -31,8 +31,6 @@ Source code is not publicly available.
 ---
 
 ## 📬 Contact
-
-For inquiries, access requests, or collaboration discussions:
 
 📧 [info@allnegotiation.com](mailto:info@allnegotiation.com)  
 🌐 [allnegotiation.com](https://allnegotiation.com)
