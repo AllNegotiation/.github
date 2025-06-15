@@ -7,8 +7,8 @@ Built to help users practice, improve, and automate negotiation through intellig
 
 ## 💡 About
 
-AllNegotiation is a private R&D project focused on applying AI to real-world negotiation workflows.  
-The system is designed to assist users with:
+AllNegotiation is an early-stage AI product built to transform how people approach negotiation.
+It’s designed to support users with:
 
 - Practicing negotiation techniques
 - Analyzing deal dynamics
